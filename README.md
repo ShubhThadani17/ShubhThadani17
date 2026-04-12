@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi, I'm Shubh 👋
 
-🎓 19-year-old B.Tech CSE (Core) student
-💻 Skilled in Python and C++
-🧠 Currently grinding Data Structures & Algorithms (DSA)
-📈 Active on LeetCode and consistently improving problem-solving skills
+🎓 19-year-old B.Tech CSE (Core) student  
+💻 Skilled in Python and C++  
+🧠 Currently grinding Data Structures & Algorithms (DSA)  
+📈 Active on LeetCode and consistently improving problem-solving skills  
 
 🚀 I'm passionate about building a strong foundation in computer science and writing efficient code. Alongside coding, I’ve also worked as a freelance YouTube thumbnail designer, which helped me develop creativity.
 
@@ -21,7 +21,7 @@ Hi, I'm Shubh 👋
 * Building real-world projects
 
 💡 Fun Fact:
-I like combine logic with creativity.
+I like to combine logic with creativity.
 
 
 ## 🌐 Socials:
