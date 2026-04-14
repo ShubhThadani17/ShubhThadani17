@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Shubh 👋
+# About Me:
+Hi, I'm Shubh 
 
 🎓 19-year-old B.Tech CSE (Core) student  
 💻 Skilled in Python and C++  
@@ -8,19 +8,19 @@ Hi, I'm Shubh 👋
 
 🚀 I'm passionate about building a strong foundation in computer science and writing efficient code. Alongside coding, I’ve also worked as a freelance YouTube thumbnail designer, which helped me develop creativity.
 
-🔧 Tech Stack:
+Tech Stack:
 
 * Languages: Python, C++
 * Problem Solving: DSA, LeetCode
 * Creative Tools: YouTube Thumbnail Design
 
-📌 Current Focus:
+Current Focus:
 
 * Mastering DSA
 * Starting Backend Development
 * Building real-world projects
 
-💡 Fun Fact:
+Fun Fact:
 I like to combine logic with creativity.
 
 
