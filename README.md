@@ -8,7 +8,7 @@ Hi, I'm Shubh
 
 🚀 I'm passionate about building a strong foundation in computer science and writing efficient code. Alongside coding, I’ve also worked as a freelance YouTube thumbnail designer, which helped me develop creativity.
 
-Tech Stack:
+Skills:
 
 * Languages: Python, C++
 * Framework : FastAPI
