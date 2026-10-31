@@ -5,9 +5,9 @@ I like the part of software you never see on screen: APIs, databases, background
 
 ## Project
 ### Internship Application Tracker
-**A Multi-User Backend System for Managing and Tracking Internship Applications**
+**A Multi User Backend System for Managing and Tracking Internship Applications**
 
-Built a backend-focused REST API that helps students manage their internship applications, track hiring progress, monitor application deadlines and analyze their job search funnel.
+Built a backend focused REST API that helps students manage their internship applications, track hiring progress, monitor application deadlines and analyze their job search funnel.
 
 **Key Features:**
 -  **Authentication & Authorization:** JWT-based authentication with refresh token rotation and Redis-backed session management.
@@ -16,7 +16,6 @@ Built a backend-focused REST API that helps students manage their internship app
 -  **AI-Powered Email Parsing:** Integrated Google Gemini to extract company, role, hiring stage, and deadlines from recruitment emails.
 -  **Analytics:** Track application statistics, funnel conversion rates, response rates, and ghosting rates.
 -  **Automated Reminders:** Scheduled deadline notifications using Brevo and GitHub Actions.
--  **Testing:** Comprehensive test suite covering API endpoints, business logic, authentication, and background tasks.
 
 **Tech Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy (Async) · Redis · Celery · JWT · Alembic · Google Gemini · Brevo · Docker · GitHub Actions
 
