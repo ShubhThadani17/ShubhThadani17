@@ -3,6 +3,18 @@
 I'm a second year B.Tech CSE student focused on **Backend Engineering**  
 I like the part of software you never see on screen: APIs, databases, background jobs and the decisions that keep a system correct when things go wrong.
 
+##  Skills
+ 
+* **Languages:** Python, C++
+* **Backend:** FastAPI, REST API design, JWT authentication, Celery
+* **Databases:** PostgreSQL, Redis
+* **Tools:** Docker, Git, GitHub, Alembic
+
+##  Problem Solving
+ 
+* LeetCode: **250+ problems solved** | [Leetcode](https://leetcode.com/u/ShubhThadani/)
+* Currently working through DSA with C++ 
+
 ## Project
 ### Internship Application Tracker
 **A Multi User Backend System for Managing and Tracking Internship Applications**
@@ -20,18 +32,6 @@ Built a backend focused REST API that helps students manage their internship app
 **Tech Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy (Async) · Redis · Celery · JWT · Alembic · Google Gemini · Brevo · Docker · GitHub Actions
 
 **Links:** [GitHub Repository](https://github.com/ShubhThadani17/Internship_Application_Tracker) · [Swagger API Docs](https://internship-tracker-api-ktxt.onrender.com/docs)
-
-##  Skills
- 
-* **Languages:** Python, C++
-* **Backend:** FastAPI, REST API design, JWT authentication, Celery
-* **Databases:** PostgreSQL, Redis
-* **Tools:** Docker, Git, GitHub, Alembic
-
-##  Problem Solving
- 
-* LeetCode: **250+ problems solved** | [Leetcode](https://leetcode.com/u/ShubhThadani/)
-* Currently working through DSA with C++ 
 
 ##  Beyond Code
  
